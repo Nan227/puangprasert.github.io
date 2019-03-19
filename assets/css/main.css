@@ -28,7 +28,10 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+img#picProfile{
+	border-radius: 50%;	
+	width: 80%;
+}
 #logo {
   width: 80%;
   height: auto;
