@@ -2,7 +2,7 @@
 
 ## Piyaporn Puangprasert
 
-My name is Piyaporn Puangprasert. I am a frontend design web developer, and learning backend design. I also have experienced in an Environmental Science laboratory and background in health care fields. Now, I am study in a Computer Science Transfer major at Middlesex County College. The problem-solving aspect of programming is my challenge that is why I love the growth in technology industries. This profile displays most of my projects and details about myself. 
+My name is Piyaporn Puangprasert. I am a frontend design web developer, and learning backend design. I also have experience in an Environmental Science laboratory and a background in health care fields. Now, I am studying Business Analytics and Information Technology major. I will start a master's degree in information and Analytics in Fall 2024.
 
 ## Screenshot
 
